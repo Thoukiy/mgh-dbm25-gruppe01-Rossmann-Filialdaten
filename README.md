@@ -4,26 +4,26 @@ Ein Projekt im Rahmen der Vorlesung Business Analytics an der DHBW Bad Mergenthe
 
 Autoren: Lucienne Dorbath, Emely Helwer, Cedric Weber   
 
-# Kurze Beschreibung
+## Kurze Beschreibung
 Im Einzelhandel schwankt der Tagesumsatz einer Filiale stark. Ziel dieses Projekts ist es, mit Python in einem Jupyter Notebook zu analysieren, welche Faktoren den Umsatz von Rossmann-Filialen beeinflussen und wie Rabattaktionen sowie Filialmerkmale mit den Umsatzzahlen zusammenhängen.
 
-# Im Zentrum stehen zwei Forschungsfragen
+## Im Zentrum stehen zwei Forschungsfragen
 Forschungsfrage 1 (FF1): Wie stark erhöht eine Rabattaktion (Promo) den Tagesumsatz einer Rossmann-Filiale, und unterscheidet sich diese Wirkung je nach Wochentag?   
 Forschungsfrage 2 (FF2): Wie hängen Filialtyp, Sortiment und Entfernung zur Konkurrenz mit dem Umsatz und dem Umsatz pro Kunde zusammen?   
 
 Als Datengrundlage dient der Kaggle-Datensatz Rossmann Store Sales mit Verkaufsdaten von 1.115 Rossmann-Filialen in Deutschland.   
 
-# Quick Start
-## 1. Voraussetzungen:
-  • 1.1. Python 3.xJupyter 
-  • 1.2. Notebook (oder JupyterLab/Visual Studio Code) 
-  • 1.3. Benötigte Python-Bibliotheken: pandas, numpy
+## Quick Start
+### 1. Voraussetzungen
+  * 1.1. Python 3.xJupyter 
+  * 1.2. Notebook (oder JupyterLab/Visual Studio Code) 
+  * 1.3. Benötigte Python-Bibliotheken: pandas, numpy
 
-## 2. Projekt ausführen
+### 2. Projekt ausführen
    • 2.1. Repository klonen
    • 2.2. Benötigte Pakete installieren
    • 2.3. JupyterNotebook starten
    • 2.4. Datei "mgh-dbm25-gruppe01-rossmann-filialdaten" öffnen und alle Zellen nacheinander ausführen
 
-# Inhalt und Ordnerstruktur
+## Inhalt und Ordnerstruktur
   
