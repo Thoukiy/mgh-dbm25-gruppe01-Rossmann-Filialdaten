@@ -14,12 +14,12 @@ Forschungsfrage 2 (FF2): Wie hängen Filialtyp, Sortiment und Entfernung zur Kon
 Als Datengrundlage dient der Kaggle-Datensatz Rossmann Store Sales mit Verkaufsdaten von 1.115 Rossmann-Filialen in Deutschland.   
 
 ## Quick Start
-#1. Voraussetzungen:
+# 1. Voraussetzungen:
   1.1. Python 3.xJupyter 
   1.2. Notebook (oder JupyterLab/Visual Studio Code) 
   1.3. Benötigte Python-Bibliotheken: pandas, numpy
 
-#2. Projekt ausführen
+# 2. Projekt ausführen
    2.1. Repository klonen
    2.2. Benötigte Pakete installieren
    2.3. JupyterNotebook starten
