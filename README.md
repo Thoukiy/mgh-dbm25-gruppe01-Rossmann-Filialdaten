@@ -11,11 +11,15 @@ Im Einzelhandel schwankt der Tagesumsatz einer Filiale stark. Ziel dieses Projek
 Forschungsfrage 1 (FF1): Wie stark erhöht eine Rabattaktion (Promo) den Tagesumsatz einer Rossmann-Filiale, und unterscheidet sich diese Wirkung je nach Wochentag?   
 Forschungsfrage 2 (FF2): Wie hängen Filialtyp, Sortiment und Entfernung zur Konkurrenz mit dem Umsatz und dem Umsatz pro Kunde zusammen?   
 
+## Daten
 Als Datengrundlage dient der Kaggle-Datensatz Rossmann Store Sales mit Verkaufsdaten von 1.115 Rossmann-Filialen in Deutschland. 
-Link: https://www.kaggle.com/c/rossmann-store-sales  
-Wir haben keine Daten dazu hier hochgeladen, da die train.csv zu groß für den Upload ist. 
+https://www.kaggle.com/c/rossmann-store-sales  
+Wir haben keine Daten dazu hochgeladen, da die train.csv zu groß für den Upload ist. 
 Aus diesem Grund haben wir beide Dateien nicht angefügt. 
 
+ * train.csv: Tages- und Verkaufsdaten
+ * store.csv: zusätzliche Filialdaten
+ 
 ## Quick Start
 ### 1. Voraussetzungen
   * Python 3.xJupyter 
@@ -26,7 +30,7 @@ Aus diesem Grund haben wir beide Dateien nicht angefügt.
    * Repository klonen
    * Benötigte Pakete installieren
    * JupyterNotebook starten
-   * Datei "mgh-dbm25-gruppe01-rossmann-filialdaten" öffnen und alle Zellen nacheinander ausführen
+   * Datei "mgh-dbm25-gruppe01-rossmann-filialdaten" öffnen und alle Zellen ausführen
 
 ## Inhalt und Ordnerstruktur
    * .gitignore
