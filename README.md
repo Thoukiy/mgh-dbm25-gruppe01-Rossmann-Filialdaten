@@ -15,15 +15,15 @@ Als Datengrundlage dient der Kaggle-Datensatz Rossmann Store Sales mit Verkaufsd
 
 ## Quick Start
 ### 1. Voraussetzungen
-  * 1.1. Python 3.xJupyter 
-  * 1.2. Notebook (oder JupyterLab/Visual Studio Code) 
-  * 1.3. Benötigte Python-Bibliotheken: pandas, numpy
+  * Python 3.xJupyter 
+  * Notebook (oder JupyterLab/Visual Studio Code) 
+  * Benötigte Python-Bibliotheken: pandas, numpy
 
 ### 2. Projekt ausführen
-   • 2.1. Repository klonen
-   • 2.2. Benötigte Pakete installieren
-   • 2.3. JupyterNotebook starten
-   • 2.4. Datei "mgh-dbm25-gruppe01-rossmann-filialdaten" öffnen und alle Zellen nacheinander ausführen
+   * Repository klonen
+   * Benötigte Pakete installieren
+   * JupyterNotebook starten
+   * Datei "mgh-dbm25-gruppe01-rossmann-filialdaten" öffnen und alle Zellen nacheinander ausführen
 
 ## Inhalt und Ordnerstruktur
   
